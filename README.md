@@ -19,6 +19,14 @@ Using dedicated mode-selection switches and a **plug-and-play socket interface**
 
 ---
 
+## Robosoccer Bot
+
+<p align="center">
+  <img src="images\DSC05321.JPG" alt="Robosoccer Bot" width="600">
+</p>
+
+---
+
 ## ✨ Key Features
 
 - 🏆 Winner of **Robosoccer Competition 2023**
@@ -37,3 +45,18 @@ Using dedicated mode-selection switches and a **plug-and-play socket interface**
 
 ## 🏗️ System Architecture
 
+coming soon ....
+
+## Demo Link
+
+[Watch the full demo on YouTube](https://www.youtube.com/watch?v=HZsJYVCDBOQ&list=PLFIHb1WcePko&index=4)
+
+---
+
+## Author
+
+**Sourik Choudhury**  
+Electronics and Communication Engineering | Embedded Systems | VLSI | PCB Design
+
+- GitHub: [@sourikchoudhury](https://github.com/sourikchoudhury)
+- LinkedIn: [Sourik Choudhury](https://www.linkedin.com/in/sourik-choudhury-332b72248/)
