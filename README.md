@@ -55,6 +55,18 @@ Using dedicated mode-selection switches and a **plug-and-play socket interface**
 
 coming soon ....
 
+## Competition Images
+
+<p align="center">
+  <img src="images\DSC05322.JPG" alt="Image1" width="700">
+</p>
+
+<p align="center">
+  <img src="images\DSC05324.JPG" alt="Image2" width="700">
+</p>
+
+---
+
 ## Demo Link
 
 [Watch the full demo on YouTube](https://www.youtube.com/watch?v=HZsJYVCDBOQ&list=PLFIHb1WcePko&index=4)
