@@ -2,7 +2,23 @@
 
 A competition-ready robotic soccer bot featuring **dual-mode wireless and wired control**, built around an **ESP8266**, **L298N motor driver**, and a custom plug-and-play control interface.
 
-🏆 **Winner – Robosoccer Competition 2023**
+<p align="center">
+  <img src="images\DSC05321.JPG" alt="Robosoccer Bot" width="800">
+</p>
+
+---
+
+## 🏆 Achievement
+
+🥉 **Winner (1st Place)**
+
+**Technovision 2K23 Robosoccer Competition**
+
+This project was recognized for its Robust and efficient design
+
+<p align="center">
+  <img src="images\Robosoccer-Bot_Certificate.jpg" alt="Merit Certificate" width="700">
+</p>
 
 ---
 
@@ -16,14 +32,6 @@ The **Robosoccer Bot** is a remotely controlled robotic platform developed for a
 A key design objective was to ensure reliable operation during competition. Since wireless communication can potentially fail or become unreliable, the bot was designed with a **rapid wired fallback mechanism**.
 
 Using dedicated mode-selection switches and a **plug-and-play socket interface**, the control system can be switched from wireless to wired operation in approximately **10–20 seconds** without major hardware modifications.
-
----
-
-## Robosoccer Bot
-
-<p align="center">
-  <img src="images\DSC05321.JPG" alt="Robosoccer Bot" width="600">
-</p>
 
 ---
 
